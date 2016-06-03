@@ -69,6 +69,17 @@ TODO
 - Angular.js
 - PDF.js (including pdf.worker.js, text_layer_builder.js, annotations_layer_builder.js and ui_utils.js from PDF.js web folder)
 
+
+#### Demo
+
+- you need have node
+``` js
+$ node server.js 
+```
+
+- In the browser
+  localhost:8000/index.html
+
 #### License
 angular-pdf-viewer.js is copyright © 2015 jdryg
 
